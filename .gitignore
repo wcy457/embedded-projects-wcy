@@ -20,9 +20,11 @@
 *.bak
 *.bak_*
 *.uvguix.*
+*.uvoptx
 *.uvoptx.bak
 DebugConfig/
 Objects/
+OBJ/
 Listings/
 RTE/Device/STM32F103ZE/STM32F1xx.dbgconf
 
@@ -69,3 +71,9 @@ Bootloader-practice/
 
 # Car_Dashboard 复刻工作区（备份副本）
 Car_Dashboard/复刻工作区/
+
+# 面试准备 / 复刻指南 / 课程讲解 / 学习笔记（不公开）
+*面试*
+*复刻*
+*讲解*
+*笔记*
